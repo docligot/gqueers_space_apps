@@ -1,0 +1,117 @@
+@font-face {
+	font-family: "Intro";
+	src: url('fonts/Intro.otf');
+}
+
+@font-face {
+	font-family: "Din";
+	src: url('fonts/D-DIN.otf');
+}
+
+@font-face {
+	font-family: "Din-bold";
+	src: url('fonts/D-DIN-Bold.otf');
+}
+
+@font-face {
+	font-family: "QuattrocentoSans";
+	src: url('QuattrocentoSans.ttf');
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url('RobotoCondensed-Light.ttf');
+}
+
+.intro {
+	font-family: "Intro", serif
+}
+
+.din {
+	font-family: "Din", sans-serif
+}
+
+.din-bold {
+	font-family: "Din-bold", sans-serif
+}
+
+.roboto {
+	font-family: "Roboto", sans-serif
+}
+
+.quattrocento {
+	font-family: "QuattrocentoSans", sans-serif
+}
+
+.spacer {
+	height: 52px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.iact-blue {
+	color: #fff!important;
+	background-color: #074b7b!important;
+}
+
+.iact-slate {
+	color: #000!important;
+	background-color: #68889f!important;
+}
+
+.iact-dark {
+	color: #fff!important;
+	background-color: #59595a!important;
+}
+
+.iact-yellow {
+	color: #000!important;
+	background-color: #deb010!important;
+}
+
+.iact-text {
+	color: #59595a!important
+}
+
+.ambient {
+	color:#fff!important;
+	background-color:#404040!important;
+}
+
+.hover-ambient:hover {
+	color:#fff!important;
+	background-color:#404040!important;
+}
+
+
+table {
+	width: 100%;
+}
+
+thead, tbody, tr, td, th { 
+	display: block; 
+}
+
+tr:after {
+	content: ' ';
+	display: block;
+	visibility: hidden;
+	clear: both;
+}
+
+tbody {
+	height: 120px;
+	overflow-y: auto;
+}
+
+.heat-1 tr td, .heat-1 tr th {
+	width: 16.65%;
+	float: left;
+}
+
+.heat-home tr td, .heat-home tr th {
+	width: 33.32%;
+	float: left;
+}
