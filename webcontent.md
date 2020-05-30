@@ -19,9 +19,21 @@ Nowcasting GDP means the countries no longer have to wait until the official GDP
 
 ## Meet the Team
 
+### Nick Tobia
+Nick is a senior consultant for data analytics for social impact at CirroLytix. He specializes in human rights, peace, democracy and justice reform.
 
+### Miguel Oscar Castelo
+
+### Theresa Tan
+
+### Kristel Zapata
+
+### Helen Mary Labao-Barrameda
+Helen is an associate consultant at CirroLytix. She is also a systems and geodetic engineer, web developer, technical writer, and data analyst. he has done projects ranging from GIS, infrastructure development roadmaps, web scraping, database development, systems administration, business intelligence reports, marketing automations, and demand forecasting.
 
 ## The Raw Data
+
+Our raw dataset includes the NASA Suomi NPP/VIIRS nighttime imagery band data, the 
 
 ## Insights
 
