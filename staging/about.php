@@ -25,8 +25,8 @@ function showGideon() {
 			<p><b>Gideon Insights</b> will produce additional historical information and overlay additional variables to improve the data modeling for GDP nowcasting. Due to the limited time of the hackathon, only a few countries' satellite imagery data were reasonably collected to study the indicative relationships. We will also make a more sophisticated geospatial analysis beyond the prototyping stage if given the chance to develop the project.</p>
 		</div>
 		<footer>
-			<div class="w3-padding iact-blue">
-				Powered by Team Gideon of CirroLytix
+			<div class="w3-padding w3-black">
+				NASA Space Apps Challenge - Team Gideon by CirroLytix
 			</div>
 		</footer>
 	</div>
