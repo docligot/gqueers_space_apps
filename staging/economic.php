@@ -1,3 +1,3 @@
 <?php
 
-function showEconomic() {
+function showEconomic() {}
