@@ -39,11 +39,11 @@
 	if (isset($_GET["page"])) {
 		$page = $_GET['page'];
 		switch ($page) {
-			case 'profiles':
-				showProfiles();
-				break;
 			case 'overview':
 				showOverview();
+				break;
+			case 'profiles':
+				showProfiles();
 				break;
 			case 'mobility':
 				showMobility();

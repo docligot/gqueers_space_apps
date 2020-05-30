@@ -1,5 +1,9 @@
 <?php
 
-funciton showMobility() {
+function showMobility() {
+
+
+
+
 	
 }
