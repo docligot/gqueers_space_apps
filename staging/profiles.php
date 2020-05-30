@@ -83,6 +83,7 @@ function showInsights() {
 
 				<canvas id="canvas" style="width:100%; height: 460px;"></canvas>
 				<div id="country_container"></div>
+				<div id="no2_container"></div>
 
 			</div>
 		</div>
@@ -112,6 +113,21 @@ function loadDefaultCountryPro() {
 	xmlhttp.send();
 }
 loadDefaultCountryPro();
+
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 500); // Change image every 2 seconds
+}
 </script>
 
 
