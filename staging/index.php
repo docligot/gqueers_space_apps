@@ -28,22 +28,18 @@
 	
 	<?php
 	
-	
-	include ('overview.php');
-	include ('profiles.php');
+	include ('insights.php');
 	include ('mobility.php');
 	include ('economic.php');
 	include ('environment.php');
+	include ('team.php');
 	include ('about.php');
 
 	if (isset($_GET["page"])) {
 		$page = $_GET['page'];
 		switch ($page) {
-			case 'overview':
-				showOverview();
-				break;
-			case 'profiles':
-				showProfiles();
+			case 'insights':
+				showInsights();
 				break;
 			case 'mobility':
 				showMobility();
@@ -53,6 +49,9 @@
 				break;
 			case 'environment':
 				showEnvironment();
+				break;
+			case 'team':
+				showTeam();
 				break;
 			default:
 				showGideon();

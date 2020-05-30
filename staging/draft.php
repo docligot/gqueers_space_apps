@@ -1,8 +1,3 @@
-<?php
-
-function showInsights() {
-?>
-
 <div class="w3-row">
 	<div class="w3-col l2">&nbsp;</div>
 	<div class="w3-col l10">
@@ -32,7 +27,3 @@ function showInsights() {
 	
 </div>
 </div>
-
-
-<?php
-}
