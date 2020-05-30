@@ -34,5 +34,6 @@ function showInsights() {
 </div>
 
 
+
 <?php
 }
