@@ -31,7 +31,7 @@ function showMobility() {
 				</section>
 				<br/>
 				<br/>
-				<div class="w3-small">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</div>
+				<div class="w3-small">Lockdown measures have people staying in their homes in the Philippines as shown by the yellow line. Lockdowns are still in place as of May for the Filipino people. There is no visible resurgence or uptick in covid growths after lockdown measures have been placed.</div>
 			</div>		
 			
 			
@@ -45,7 +45,7 @@ function showMobility() {
 				</section>
 				<br/>
 				<br/>
-				<div class="w3-small">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</div>
+				<div class="w3-small">Singapore's social distancing and protocols are visibly moderate compared to other countries with dramatic drop in mobility.</div>
 			</div>		
 
 			
@@ -59,7 +59,7 @@ function showMobility() {
 				</section>
 				<br/>
 				<br/>
-				<div class="w3-small">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</div>
+				<div class="w3-small">Japan did not issue any strict lockdowns despite the covid-19 cases they had to face locally and in the Diamond Princess ship. However, a notable decrease in mobility in transportation has been observed in the height of the covid-19 pandemic.</div>
 			</div>	
 
 			
@@ -73,7 +73,7 @@ function showMobility() {
 				</section>
 				<br/>
 				<br/>
-				<div class="w3-small">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</div>
+				<div class="w3-small">Sweden's controversial zero lockdown strategy ruffled feathers globally. Despite that, it looks like covid-19 infection numbers is still relatively somehow well-managed.</div>
 			</div>					
 		
 		</div>
