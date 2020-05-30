@@ -18,7 +18,8 @@ function showGideon() {
 			<p>Countries with the most economic damage risk need to take more informed action to save their GDP even before the GDP quarterly reports are out. Low GDP countries do not typically have strong statistical analysis of their economy. Policy makers need to make quicker decisions in the face of the crisis. As such, non-traditional GDP parameters need to be used.</p> 
 
 			<h3 class="w3-large din-bold">THE SOLUTION</h3>
-			<p></p>
+			<p>Instead of the traditional way, we nowcast GDP from the integration of night light (economic), covid-19 growth rate (health), mobility data (lockdown and human activity), and nitrogen dioxide (environment).</p>
+			<p>Satellite data updates more frequently than traditional GDP predictors. Policy makers can take quicker action with insights derived. </p>
 			<h3 class="w3-large din-bold">THIS DASHBOARD PROTOTYPE</h3>
 			<p></p>
 			<h3 class="w3-large din-bold">FUTURE DEVELOPMENTS</h3>
