@@ -1,13 +1,15 @@
+
 function extractProfiles () {
 
 	var variable = document.getElementById('variable') 
 	
+	console.log(variable)
 	
-	show_country(variable)
+	//show_country(variable)
 	
 	
 }
-
+/*
 function show_country(country) {
 	
 	if (country == "Philippines") {
@@ -30,3 +32,5 @@ function show_country(country) {
 					<option value="Singapore">Singapore</option>
 					<option value="Italy">Italy</option>
 					<option value="Sweden">Sweden</option>
+					
+*/
