@@ -7,7 +7,7 @@ function showTeam() {
 	<div class="w3-col l10">
 		<h1 class="w3-xlarge w3-padding din-bold">Team Members</h1>
 	
-		<div class="w3-row" style="margin-left:15px">
+		<div class="w3-row" style="margin-left:20px">
 				<h3>Nick Tobia</h3>
 				<p>Nick is a senior consultant for data analytics for social impact at CirroLytix. He specializes in human rights, peace, democracy and justice reform.</p>
 
