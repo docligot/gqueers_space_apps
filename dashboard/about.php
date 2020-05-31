@@ -80,6 +80,7 @@ function showGideon() {
       NASA Space Apps Challenge - Powered by Team Gideon
     </div>
   </footer>
+</div>
 
 
 <?php

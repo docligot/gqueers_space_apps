@@ -38,15 +38,16 @@ function showMethodology() {
 			<i class="fas fa-rocket"></i> <a href="https://doi.org/10.1016/j.atmosenv.2014.03.046" target="_blank" class="w3-text-blue">Impact of maritime transport emissions on coastal air quality in Europe, Atmospheric Environment</a>
 
   </div>
-	<div class="w3-col l1 w3-padding">&nbsp;</div>
-  <div class="w3-col l2">&nbsp;</div>
-  <div class="w3-col l10">
-    <footer>
-			<div class="w3-padding w3-black">
-				NASA Space Apps Challenge - Powered by Team Gideon
-			</div>
-		</footer>
-</div>
+
+
+	<div class="w3-col l2">&nbsp;</div>
+	<div class="w3-col l10">
+	  <footer>
+	    <div class="w3-padding w3-black">
+	      NASA Space Apps Challenge - Powered by Team Gideon
+	    </div>
+	  </footer>
+	</div>
 
 
 
