@@ -22,6 +22,8 @@ function showGideon() {
 			<p>Instead of the traditional way that waits for quarterly updates to see the integrated generic economic health of a country, we nowcast GDP.</p>
 			<p>Satellite data updates more frequently than traditional GDP predictors. Policy makers can take quicker action with insights derived. Project G.I.D.E.O.N. (General Impact Detection using Emitted Light, Onset of Covid-19, and Nitrogen Dioxide) makes use of historical quarterly GDP, emitted light (proxy variable for income), onset of covid-19 growth, and environmental factors (nitrogen dioxide content in a country) to predict GDP values sooner.</p>
 			<p>Nowcasting GDP means the countries no longer have to wait until the official GDP quarterly data has been posted before they take action.</p>
+			<h3 class="w3-large din-bold">THIS BENEFICIARIES</h3>
+
 			<h3 class="w3-large din-bold">THIS DASHBOARD PROTOTYPE</h3>
 			<p>Our dashboard mainly indicates a health status of a country's upcoming GDP change in the next quarter into three categories: Manageable, Moderate, and Critical. It also allows zooming in on factors of social mobility, economics, and environment damage.</p>
 			<p>The "traffic light" system produced by our solution can inform policy makers about certain economic decisions. If the dip in the GDP is caused by mobility, for example, easing lockdown may be essential to jumpstart the economic activity of the country and have the GDP recovery.</p>
@@ -35,6 +37,7 @@ function showGideon() {
 			<ol>- [Map] AirNow Air Quality Monitoring Site Data from ArcGIS Online</ol>
 			<ol>- [Map] AirPollutant Concentration Data from ArcGIS Online</ol>
 			<ol>- Google's Mobility Data during Global Lockdowns https://www.google.com/covid19/mobility/</ol>
+			<ol> Covid-19 Growth Rate and Case Data from John Hopkins University and CoronaTracker.com</ol>
 		</div>
 		<footer>
 			<div class="w3-padding w3-black">
