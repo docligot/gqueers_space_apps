@@ -8,6 +8,8 @@
 	<link rel="stylesheet" href="resources/app_css.css" />
 	<link rel="stylesheet" href=/>
 	<link rel="stylesheet" href="custom.css"/>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="UTF-8" />
 

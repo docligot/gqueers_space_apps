@@ -1,3 +1,7 @@
+### Economic Page Writeup
+With lockdowns in place in many places in the globe and travel industry hampered in its general operations, coronavirus has become one of the biggest challenges to the economy since the World War II and Spanish pandemic of 1918. Each country has its own respective flavors of impacts in its GDP as contributed by changes in human mobility in places, changes in the environment, and changes in the way work is being done. This page demonstrates the nowcast of GDP from GIDEON Insights tool and related news articles about the economy of the countries of interest.
+
+
 ### Technical Solution Details
 
 The grading of Manageable, Moderate, and Critical comes from GIDEON's algorithm that models from 4 major variables: covid-19 growth, night light imagery, nitrogen dioxide, and human mobility. Pre-processing of the raw datasets is done to make it ready for the model.
