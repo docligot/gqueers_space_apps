@@ -18,7 +18,7 @@ function showGideon() {
 
 <div id="about-page" class="w3-row">
 	<div class="w3-col l2">&nbsp;</div>
-	<div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:2em">
+	<div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:2em; padding-bottom:1em;">
 		<h2 class="din-bold w3-margin-top w3-margin-left">PROJECT GIDEON FOR THE NASA SPACE APPS CHALLENGE</h2>
 		<div class="w3-margin-left">
 			The odds of the pandemic to the economy are against us. Let's beat the odds with satellite data using GIDEON's nowcast tool.
@@ -67,19 +67,17 @@ function showGideon() {
       <i class="fas fa-space-shuttle"></i> Mobility Data during Global Lockdowns from <a href="https://www.google.com/covid19/mobility/" target="_blank" class="w3-text-blue">Google</a>
       <br/>
 			<i class="fas fa-space-shuttle"></i> Covid-19 Growth Rate and Case Data from <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank" class="w3-text-blue">John Hopkins University</a> and <a href="https://www.coronatracker.com/" target="_blank" class="w3-text-blue"> CoronaTracker.com</a>
-			<h3 class="din-bold">RELATED LITERATURE</h3>
-			<ul></ul>
-			<ul></ul>
-			<ul></ul>
-		</div>
-		<footer>
-			<div class="w3-padding w3-black">
-				NASA Space Apps Challenge - Team Gideon
-			</div>
-		</footer>
-	</div>
-</div>
 
+	</div>
+
+</div>
+<div class="w3-col l2">&nbsp;</div>
+<div class="w3-col l10">
+  <footer>
+    <div class="w3-padding w3-black">
+      NASA Space Apps Challenge - Team Gideon
+    </div>
+  </footer>
 
 
 <?php
