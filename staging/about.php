@@ -27,6 +27,14 @@ function showGideon() {
 			<p>The "traffic light" system produced by our solution can inform policy makers about certain economic decisions. If the dip in the GDP is caused by mobility, for example, easing lockdown may be essential to jumpstart the economic activity of the country and have the GDP recovery.</p>
 			<h3 class="w3-large din-bold">FUTURE DEVELOPMENTS</h3>
 			<p><b>Gideon Insights</b> will produce additional historical information and overlay additional variables to improve the data modeling for GDP nowcasting. Due to the limited time of the hackathon, only a few countries' satellite imagery data were reasonably collected to study the indicative relationships. We will also make a more sophisticated geospatial analysis beyond the prototyping stage if given the chance to develop the project.</p>
+			<h3 class="w3-large din-bold">DATA SOURCES</h3>
+			<ol>Suomi NPP/VIIRS Nighttime Imagery from https://worldview.earthdata.nasa.gov/</ol>
+			<ol>Sentinel 5P Offline Nitrogen Dioxide from https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2</ol>
+			<ol>GDP from Trading Economics https://tradingeconomics.com/country-list/gdp-growth-rate</ol>
+			<ol>[Map] Satellite Imagery of MODIS thermal hotspots from ArcGIS Online</ol>
+			<ol>[Map] AirNow Air Quality Monitoring Site Data from ArcGIS Online</ol>
+			<ol>[Map] AirPollutant Concentration Data from ArcGIS Online</ol>
+			<ol>Google's Mobility Data during Global Lockdowns https://www.google.com/covid19/mobility/</ol>
 		</div>
 		<footer>
 			<div class="w3-padding w3-black">
