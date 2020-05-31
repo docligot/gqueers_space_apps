@@ -77,7 +77,7 @@ function showInsights() {
 					<option value="Sweden">Sweden</option>
 				</select>
 		<hr/>
-		<div class="w3-medium">The night lights and NO2 data indicates drastic changes in some countries. An exemplary country to follow is Italy whose GDP has remained resilient despite the blows of the pandemic. Japan needs to watch out and take some action before the next GDP quarterly report. Other countries like Singapore, Sweden, and Philippines have moderate change.</div>
+		<div class="w3-medium">The pollution, lockdown index, covid-19 growth rate, and GDP values collectively build the model of GIDEON's nowcasting tool for GDP and indicate drastic changes in some countries. An exemplary country to follow is Singapore or Japan whose GDP has remained resilient despite the blows of the pandemic. Italy needs to watch out and take some action before the next GDP quarterly report. </div>
 		</div>
 		<div class="w3-col l9 w3-padding">
 
