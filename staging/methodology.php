@@ -6,7 +6,7 @@ function showMethodology() {
 
 <div class="w3-row">
 	<div class="w3-col l2">&nbsp;</div>
-  <div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:1em; padding-bottom:20px;">
+  <div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:1em; padding-bottom:30px;">
     <h2 class="din-bold w3-margin-top">METHODOLOGY</h2>
     <h3 class="din-bold">TECHNICAL SOLUTION DETAILS</h3>
     The grading of Manageable, Moderate, and Critical comes from GIDEON's algorithm that models from 4 major variables: covid-19 growth, night light imagery, nitrogen dioxide, and human mobility. Pre-processing of the raw datasets is done to make it ready for the model.
@@ -22,9 +22,9 @@ function showMethodology() {
     <h4 class="din-bold">R<sup>2</sup> Values</h4>
     R<sup>2</sup> values derived from our initial run of the GIDEON model are indicative with values ranging from 0.7 to 0.9.
     <h4 class="din-bold">RELATED LITERATURE</h4>
-      <i class="fas fa-rocket"></i> Night-Time Light Data: A Good Proxy Measure for Economic Activity https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4619681/
+      <i class="fas fa-rocket"></i> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4619681/" target="_blank" class="w3-text-blue">Night-Time Light Data: A Good Proxy Measure for Economic Activity </a>
       <br/>
-      <i class="fas fa-rocket"></i> WHO Guidelines for Indoor Air Quality: Selected Pollutants: https://www.ncbi.nlm.nih.gov/books/NBK138707/
+      <i class="fas fa-rocket"></i> <a href="https://www.ncbi.nlm.nih.gov/books/NBK138707/" target="_blank" class="w3-text-blue">WHO Guidelines for Indoor Air Quality: Selected Pollutants</a>
   </div>
   <div class="w3-col l2">&nbsp;</div>
   <div class="w3-col l10">
