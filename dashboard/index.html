@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<title>Project G. I. D. E. O. N.</title>
+	<link rel="stylesheet" type="text/css" href="resources/w3.css" />
+</head>
+
+<style>
+
+#Header1 {
+	background-image: url('resources/field.png');
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+	-webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(50%);
+}
+
+#Header2 {
+	background-image: url('resources/palm.png');
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+	-webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(50%);
+}
+
+#Header3 {
+	background-image: url('resources/volcano.png');
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+	-webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(50%);
+}
+
+#Header4 {
+	background-image: url('resources/sea.png');
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+	-webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(50%);
+}
+
+#Header5 {
+	background-image: url('resources/church.png');
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+	-webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(50%);
+}
+
+#Header6 {
+	background-image: url('resources/quiapo.png');
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+	-webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(50%);
+}
+
+.insetlogo {
+	border-style: solid; 
+	border-width: 10px;
+	background: rgba(0, 0, 0, 0.73);
+	color: #fff;
+}
+
+</style>
+
+<body>
+
+    <header>
+        <div id="Header1" class="w3-container w3-center w3-teal headers" style="padding:128px 48px;height:100vh;">
+            <div class="w3-mobile w3-display-middle w3-padding-large insetlogo">
+                <h1 class="w3-xxxlarge">G. I. D. E. O. N.</h1>
+                <h2 class="w3-xlarge">Global Impact Detection from Emitted Light, Onset of COVID and NO2</h2>
+            </div>
+        </div>
+        <div id="Header2" class="w3-container w3-center w3-teal headers" style="padding:128px 48px;height:100vh;">
+            <div class="w3-mobile w3-display-middle w3-padding-large insetlogo">
+                <h1 class="w3-xxxlarge">G. I. D. E. O. N.</h1>
+                <h2 class="w3-xlarge">Global Impact Detection from Emitted Light, Onset of COVID and NO2</h2>
+            </div>
+        </div>
+        <div id="Header3" class="w3-container w3-center w3-teal headers" style="padding:128px 48px;height:100vh;">
+            <div class="w3-mobile w3-display-middle w3-padding-large insetlogo">
+                <h1 class="w3-xxxlarge">G. I. D. E. O. N.</h1>
+                <h2 class="w3-xlarge">Global Impact Detection from Emitted Light, Onset of COVID and NO2</h2>
+            </div>
+        </div>
+        <div id="Header4" class="w3-container w3-center w3-teal headers" style="padding:128px 48px;height:100vh;">
+            <div class="w3-mobile w3-display-middle w3-padding-large insetlogo">
+                <h1 class="w3-xxxlarge">G. I. D. E. O. N.</h1>
+                <h2 class="w3-xlarge">Global Impact Detection from Emitted Light, Onset of COVID and NO2</h2>
+            </div>
+        </div>
+        <div id="Header5" class="w3-container w3-center w3-teal headers" style="padding:128px 48px;height:100vh;">
+            <div class="w3-mobile w3-display-middle w3-padding-large insetlogo">
+                <h1 class="w3-xxxlarge">G. I. D. E. O. N.</h1>
+                <h2 class="w3-xlarge">Global Impact Detection from Emitted Light, Onset of COVID and NO2</h2>
+            </div>
+        </div>
+        <div id="Header6" class="w3-container w3-center w3-teal headers" style="padding:128px 48px;height:100vh;">
+            <div class="w3-mobile w3-display-middle w3-padding-large insetlogo">
+                <h1 class="w3-xxxlarge">G. I. D. E. O. N.</h1>
+                <h2 class="w3-xlarge">Global Impact Detection from Emitted Light, Onset of COVID and NO2</h2>
+            </div>
+        </div>
+
+    </header>
+
+<script>
+
+	var slideIndex = 0;
+	showSlides();
+	
+	function showSlides() {
+		var i;
+		var slides = document.getElementsByClassName("headers");
+		for (i = 0; i < slides.length; i++) {
+			slides[i].style.display = "none";
+		}
+		slideIndex++;
+		if (slideIndex > slides.length) {
+			slideIndex = 1;
+		}
+		slides[slideIndex - 1].style.display = "block";
+		setTimeout(showSlides, 6000); 
+	}
+
+</script>
+
+</body>
+
+</html>
