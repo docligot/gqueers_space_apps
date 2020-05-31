@@ -18,7 +18,7 @@ function showInsights() {
 					<option value="Sweden">Sweden</option>
 				</select>
 		<hr/>
-		<div class="w3-small">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</div>
+		<div class="w3-small">The pollution, lockdown index, covid-19 growth rate, and GDP values collectively build the model of GIDEON's nowcasting tool for GDP and indicate drastic changes in some countries. An exemplary country to follow is Singapore or Japan whose GDP has remained resilient despite the blows of the pandemic. Italy needs to watch out and take some action before the next GDP quarterly report.</div>
 		</div>
 		<div class="w3-col l9 w3-padding">
 				<canvas id="canvas" style="width:100%; height: 460px;"></canvas>
