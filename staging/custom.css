@@ -1,0 +1,46 @@
+<style>
+
+.gideon-darkest {
+  background-color:#001244!important;
+}
+
+.gideon-darker {
+  background-color:#005086!important;
+}
+
+#gideon-dark {
+  color:#318fb5;
+}
+
+.gideon-light {
+  color:#b0cac7;
+}
+
+.gideon-lighter-text {
+  color:#f7d6bf;
+
+}
+
+.gideon-lighter {
+  color:white!important;
+  background-color: #001244!important;
+}
+
+#header-1 {
+	background-image: url('try.jpg');
+	min-height: 100%;
+  height: 300px;
+	background-position: center;
+	background-size: cover;
+}
+
+a:visited {
+  color: #b0cac7!important;
+}
+
+a:hover {
+  color:#005086!important;
+}
+
+
+</style>
