@@ -33,6 +33,7 @@ function showMobility() {
 				</section>
 				<br/>
 				<br/>
+				<br/>
 				<div class="w3-small">Japan did not issue any strict lockdowns despite the covid-19 cases they had to face locally and in the Diamond Princess ship. However, a notable decrease in mobility in transportation has been observed in the height of the covid-19 pandemic.</div>
 			</div>
 			<br/>
