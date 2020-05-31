@@ -25,10 +25,10 @@
 				<?php include ('menu.php'); ?>
 			</div>
 		</nav>
-	
+
 	<?php
-	
-	include ('insights.php');
+
+	include ('profiles.php');
 	include ('mobility.php');
 	include ('economic.php');
 	include ('environment.php');
