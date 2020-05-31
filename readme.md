@@ -12,9 +12,26 @@ GIDEON is an integrated public policy information portal that aims to measure th
 
 Newsfeeds, Google Mobility data, and COVID cases show the multi-dimensional impact of government-mandated lockdowns and other interventions on their societies. Not all governments applied lockdowns, and no two lockdowns were implemented the same way.
 
+![logframe](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/Gideon%20Process%20Flow.png?raw=true)
+
 EO night lights and NO2 levels can nowcast the current impact, and forecast the likely outcome, of lockdowns on nations’ economies. No country can survive a permanent lockdown, and eventually, governments will have to ease their restrictions.
 
+* Satellite spectral data is downloaded from World View Earth Data on the NASA site for VIIRS data on night lights, and from Google Earth Engine for Sentinel-5p data on NO2;
+* Spectral data is color extracted and converted into CSV to generate indices on night light and NO2 in target countries;
+* Economic data on GDP is taken from various sources;
+GDP is modeled on night light and NO2 data.
+
+![process](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/Satellite%20Process.png?raw=true)
+
 Finally, various levels of human activity affect pollution levels around the world and it is possible to detect from EO which countries are keeping air quality under control as they bounce back from lockdown.
+
+* Human mobility raw datasets were taken from Google Mobility Report;
+* COVID-19 global infection data is taken from Johns Hopkins University;
+* NO2 data is taken from Sentinel-5p datasets;
+
+![Spectral1](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200101%20to%20200201.png?raw=true | width=33%)
+![Spectral2](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200202%20to%20200208.png?raw=true | width=33%)
+![Spectral3](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200207%20to%20200217.png?raw=true | width=33%)
 
 ## Insights
 
@@ -39,6 +56,10 @@ Team GIDEON wanted a multifaceted approach that can help decision makers to make
 * [5-slide presentation](https://raw.githubusercontent.com/docligot/gqueers_space_apps/master/5-slide-requirement_GIDEON.pptx)
 * [Our Website](https://opendata.org.ph/projectgideon)
 
+## Screenshots
+
+
+
 ## Data & Resources
 * Suomi NPP/VIIRS Nighttime Imagery from https://worldview.earthdata.nasa.gov/
 * Sentinel 5P Offline Nitrogen Dioxide https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2
@@ -48,6 +69,17 @@ Team GIDEON wanted a multifaceted approach that can help decision makers to make
 * [Map] AirPollutant Concentration Data from ArcGIS Online
 * Google's Mobility Data during Global Lockdowns https://www.google.com/covid19/mobility/
 * Covid-19 Cases and Growth Rate from John Hopkins University and CoronaTracker.com
+
+## Literature
+
+* [Paper](https://www.researchgate.net/publication/332974696_VIIRS_Nighttime_Lights_in_the_Estimation_of_Cross-Sectional_and_Time-Series_GDP) Chen, Xi & Nordhaus, William. (2019). VIIRS Nighttime Lights in the Estimation of Cross-Sectional and Time-Series GDP. Remote Sensing. 11. 1057. 10.3390/rs11091057.
+Xiuying Zhang, Wuting Zhang, Xuehe Lu, Xuejun Liu, Dongmei Chen, Lei Liu, Xianjin Huang,
+* [Paper](https://doi.org/10.1016/j.scitotenv.2018.04.435.) "Long-term trends in NO2 columns related to economic developments and air quality policies from 1997 to 2016 in China", Science of The Total Environment, Volume 639, 2018, Pages 146-155,ISSN 0048-9697, 
+* [Paper](https://doi.org/10.1016/j.atmosenv.2007.09.042) Bernardo Beckerman, Michael Jerrett, Jeffrey R Brook, Dave K Verma, Muhammad A Arain, Murray M Finkelstein, Correlation of nitrogen dioxide with other traffic pollutants near a major expressway, Atmospheric Environment, Volume 42, Issue 2, 2008, Pages 275-290, ISSN 1352-2310
+* [Paper](https://doi.org/10.1016/j.scitotenv.2015.11.113.) Jianhui Jiang, Jianying Zhang, Yangwei Zhang, Chunlong Zhang, Guangming Tian, Estimating nitrogen oxides emissions at city scale in China with a nightlight remote sensing model, Science of The Total Environment, Volume 544, 2016, Pages 1119-1127, ISSN 0048-9697
+* [Paper](https://doi.org/10.1016/j.scitotenv.2020.138820.) Sulaman Muhammad, Xingle Long, Muhammad Salman, COVID-19 pandemic and environmental pollution: A blessing in disguise?, Science of The Total Environment Volume 728, 2020, 138820, ISSN 0048-9697, 
+* [Paper](https://doi.org/10.1016/j.atmosenv.2014.03.046.) Mar Viana, Pieter Hammingh, Augustin Colette, Xavier Querol, Bart Degraeuwe, Ina de Vlieger, John van Aardenne, Impact of maritime transport emissions on coastal air quality in Europe, Atmospheric Environment, Volume 90, 2014, Pages 96-105, ISSN 1352-2310, 
+
 
 ## Who We Are
 
