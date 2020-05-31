@@ -32,8 +32,10 @@ function showGideon() {
 				</section>
 			<br/>
 			<h3 class="w3-large din-bold">THIS BENEFICIARIES</h3>
+			Public policymakers and economic planners are challenged to come up with agile strategies to cope with the ongoing pandemic. However economic data are lagging indicators and are seldom available in time enough to power quick decisions. Apart from policy decision makers in government, private institutions such as multinational development companies which have funds for developing economies globally can also benefit in terms of making decisions on where to make their next investments with good return
 
-			<h3 class="w3-large din-bold">THIS DASHBOARD PROTOTYPE</h3>
+
+			<h3 class="w3-large din-bold">DASHBOARD PROTOTYPE</h3>
 			<p>Our dashboard mainly indicates a health status of a country's upcoming GDP change in the next quarter into three categories: Manageable, Moderate, and Critical. It also allows zooming in on factors of social mobility, economics, and environment damage.</p>
 			<p>The "traffic light" system produced by our solution can inform policy makers about certain economic decisions. If the dip in the GDP is caused by mobility, for example, easing lockdown may be essential to jumpstart the economic activity of the country and have the GDP recovery.</p>
 			<h3 class="w3-large din-bold">FUTURE DEVELOPMENTS</h3>
@@ -48,6 +50,9 @@ function showGideon() {
 			<ol>- Google's Mobility Data during Global Lockdowns https://www.google.com/covid19/mobility/</ol>
 			<ol> Covid-19 Growth Rate and Case Data from John Hopkins University and CoronaTracker.com</ol>
 			<h3 class="w3-large din-bold">RELATED LITERATURE</h3>
+			<ul></ul>
+			<ul></ul>
+			<ul></ul>
 		</div>
 		<footer>
 			<div class="w3-padding w3-black">

@@ -19,12 +19,21 @@ Nowcasting GDP means the countries no longer have to wait until the official GDP
 
 ### Technical Solution Details for About Page
 
+Manageable, Moderate, and Critical
+
+#### Covid-19 Growth and Case Data (Pandemic Impact)
+
+#### Night Light Imagery (Proxy for Economic Activity)
+
+#### Nitrogen Dioxide (Environmental Impact)
+
+#### Human Mobility (Human Activity)
 
 
 
 ### The Beneficiaries
 
-Policy makers globally can check the "country health status" from our traffic light system to see if their GDP is in danger of falling drastically in the upcoming quarter. Apart from policy decision makers in government, private institutions such as multinational entities that have funds for developing economies globally can also benefit in terms of making decisions on where to make their next investments with good return. 
+Policy makers globally can check the "country health status" from our traffic light system to see if their GDP is in danger of falling drastically in the upcoming quarter. Apart from policy decision makers in government, private institutions such as multinational development companies which have funds for developing economies globally can also benefit in terms of making decisions on where to make their next investments with good return. 
 
 
 ## Meet the Team
