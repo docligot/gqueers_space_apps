@@ -1,3 +1,8 @@
+### Country Profiles
+The pollution, lockdown index, covid-19 growth rate, and GDP values collectively build the model of GIDEON's nowcasting tool for GDP and indicate drastic changes in some countries. An exemplary country to follow is Singapore or Japan whose GDP has remained resilient despite the blows of the pandemic. Italy needs to watch out and take some action before the next GDP quarterly report. 
+
+
+
 ### Mobility Page Final Writeup
 The social mobility page of GIDEON shows the lockdown indices per country. It demonstrates the impact of change in human mobility in places like residential, groceries and pharmacies, parks, and transit stations. It's important to know the extent of lockdown measures when zooming in per country on why the GDP forecast turned out a certain way. 
 
