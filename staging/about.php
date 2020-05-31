@@ -16,9 +16,9 @@ function showGideon() {
 </header>
 
 
-<div class="w3-row">
+<div id="about-page" class="w3-row">
 	<div class="w3-col l2">&nbsp;</div>
-	<div class="w3-col l10">
+	<div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:2em">
 		<h2 class="din-bold w3-margin-top w3-margin-left">PROJECT GIDEON FOR THE NASA SPACE APPS CHALLENGE</h2>
 		<div class="w3-margin-left">
 			The odds of the pandemic to the economy are against us. Let's beat the odds with satellite data using GIDEON's nowcast tool.
@@ -37,10 +37,9 @@ function showGideon() {
 			<p>Nowcasting GDP means the countries no longer have to wait until the official GDP quarterly data has been posted before they take action.</p>
 
 				<h5 class="din-bold">The Data Value Chain</h4>
-				<section class="w3-center">
-						<img src="images/Data value chain.png" style="width:60%; height: 200px;"/>
-
-				</section>
+				<div class="w3-center">
+						<img src="images/Data value chain.png" style="object-fit:contain; width: 80%;"/>
+				</div>
 			<br/>
 			<h3 class="din-bold">THE BENEFICIARIES</h3>
 			Public policymakers and economic planners are challenged to come up with agile strategies to cope with the ongoing pandemic. However economic data are lagging indicators and are seldom available in time enough to power quick decisions. Apart from policy decision makers in government, private institutions such as multinational development companies which have funds for developing economies globally can also benefit in terms of making decisions on where to make their next investments with good return
@@ -52,14 +51,21 @@ function showGideon() {
 			<h3 class="din-bold">FUTURE DEVELOPMENTS</h3>
 			<p><b>Gideon Insights</b> will produce additional historical information and overlay additional variables to improve the data modeling for GDP nowcasting. Due to the limited time of the hackathon, only a few countries' satellite imagery data were reasonably collected to study the indicative relationships. We will also make a more sophisticated geospatial analysis beyond the prototyping stage if given the chance to develop the project.</p>
 			<h3 class="din-bold">DATA SOURCES</h3>
-			<ol>- Suomi NPP/VIIRS Nighttime Imagery from https://worldview.earthdata.nasa.gov/</ol>
-			<ol>- Sentinel 5P Offline Nitrogen Dioxide from https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2</ol>
-			<ol>- GDP from Trading Economics https://tradingeconomics.com/country-list/gdp-growth-rate</ol>
-			<ol>- [Map] Satellite Imagery of MODIS thermal hotspots from ArcGIS Online</ol>
-			<ol>- [Map] AirNow Air Quality Monitoring Site Data from ArcGIS Online</ol>
-			<ol>- [Map] AirPollutant Concentration Data from ArcGIS Online</ol>
-			<ol>- Google's Mobility Data during Global Lockdowns https://www.google.com/covid19/mobility/</ol>
-			<ol> Covid-19 Growth Rate and Case Data from John Hopkins University and CoronaTracker.com</ol>
+			<i class="fas fa-space-shuttle"></i> Suomi NPP/VIIRS Nighttime Imagery from <a href="https://worldview.earthdata.nasa.gov" target="_blank" class="w3-text-blue">EOSDIS Worldview</a>
+			<br/>
+      <i class="fas fa-space-shuttle"></i> Sentinel 5P Offline Nitrogen Dioxide from <a href="https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2" target="_blank" class="w3-text-blue">Sentinel-5P</a>
+      <br/>
+			<i class="fas fa-space-shuttle"></i> GDP from <a href="https://tradingeconomics.com/country-list/gdp-growth-rate" target="_blank" class="w3-text-blue">Trading Economics</a>
+      <br/>
+			<i class="fas fa-space-shuttle"></i> [Map] Satellite Imagery of MODIS thermal hotspots from <a href="https://www.arcgis.com/index.html" target="_blank" class="w3-text-blue">ArcGIS Online</a>
+      <br/>
+			<i class="fas fa-space-shuttle"></i> [Map] AirNow Air Quality Monitoring Site Data from <a href="https://www.arcgis.com/index.html" target="_blank" class="w3-text-blue">ArcGIS Online</a>
+      <br/>
+			<i class="fas fa-space-shuttle"></i> [Map] AirPollutant Concentration Data from <a href="https://www.arcgis.com/index.html" target="_blank" class="w3-text-blue">ArcGIS Online</a>
+			<br/>
+      <i class="fas fa-space-shuttle"></i> Mobility Data during Global Lockdowns from <a href="https://www.google.com/covid19/mobility/" target="_blank" class="w3-text-blue">Google</a>
+      <br/>
+			<i class="fas fa-space-shuttle"></i> Covid-19 Growth Rate and Case Data from <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank" class="w3-text-blue">John Hopkins University</a> and <a href="https://www.coronatracker.com/" target="_blank" class="w3-text-blue"> CoronaTracker.com</a>
 			<h3 class="din-bold">RELATED LITERATURE</h3>
 			<ul></ul>
 			<ul></ul>

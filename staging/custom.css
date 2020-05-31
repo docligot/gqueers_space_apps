@@ -26,7 +26,6 @@
   background-color: #001244!important;
 }
 
-
 #header-1 {
 	background-image: url('try.jpg');
 	min-height: 100%;
@@ -35,6 +34,13 @@
 	background-size: cover;
 }
 
+a:visited {
+  color: #b0cac7!important;
+}
+
+a:hover {
+  color:#005086!important;
+}
 
 
 </style>
