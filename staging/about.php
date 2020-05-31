@@ -8,7 +8,7 @@ function showGideon() {
   <div id="header-1" class="w3-padding-large w3-display-container spacer">
     <div class="w3-mobile w3-display-middle w3-center gideon-lighter">
       <div class="w3-padding"><h1 class="w3-xlarge">PROJECT GIDEON</h1></div>
-      <div class="w3-padding gideon-darker w3-padding w3-small"><b>G</b>lobal <b>I</b>mpact <b>D</b>etection using <b>E</b>mitted <b>L</b>ight, <b>O</b>nset of Covid-19, and <b>N</b>itrogen Dioxide</p></div>
+      <div class="w3-padding gideon-darker w3-padding w3-small"><p><b>G</b>lobal <b>I</b>mpact <b>D</b>etection using <b>E</b>mitted <b>L</b>ight, <b>O</b>nset of Covid-19, and <b>N</b>itrogen Dioxide</p></div>
     </div>
   </div>
 </div>
@@ -18,7 +18,7 @@ function showGideon() {
 
 <div id="about-page" class="w3-row">
 	<div class="w3-col l2">&nbsp;</div>
-	<div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:2em">
+	<div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:2em; padding-bottom:1em;">
 		<h2 class="din-bold w3-margin-top w3-margin-left">PROJECT GIDEON FOR THE NASA SPACE APPS CHALLENGE</h2>
 		<div class="w3-margin-left">
 			The odds of the pandemic to the economy are against us. Let's beat the odds with satellite data using GIDEON's nowcast tool.
@@ -35,6 +35,7 @@ function showGideon() {
 			<p>Instead of the traditional way that waits for quarterly updates to see the integrated generic economic health of a country, we nowcast GDP.</p>
 			<p>Satellite data updates more frequently than traditional GDP predictors. Policy makers can take quicker action with insights derived. Project G.I.D.E.O.N. (Global Impact Detection using Emitted Light, Onset of Covid-19, and Nitrogen Dioxide) makes use of historical quarterly GDP, emitted light (proxy variable for income), onset of covid-19 growth, and environmental factors (nitrogen dioxide content in a country) to predict GDP values sooner.</p>
 			<p>Nowcasting GDP means the countries no longer have to wait until the official GDP quarterly data has been posted before they take action.</p>
+      <p>To read about our methodology in more detail, click <a href="./?page=methodology">here</a>.</p>
 
 				<h5 class="din-bold">The Data Value Chain</h4>
 				<div class="w3-center">
@@ -66,19 +67,17 @@ function showGideon() {
       <i class="fas fa-space-shuttle"></i> Mobility Data during Global Lockdowns from <a href="https://www.google.com/covid19/mobility/" target="_blank" class="w3-text-blue">Google</a>
       <br/>
 			<i class="fas fa-space-shuttle"></i> Covid-19 Growth Rate and Case Data from <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank" class="w3-text-blue">John Hopkins University</a> and <a href="https://www.coronatracker.com/" target="_blank" class="w3-text-blue"> CoronaTracker.com</a>
-			<h3 class="din-bold">RELATED LITERATURE</h3>
-			<ul></ul>
-			<ul></ul>
-			<ul></ul>
-		</div>
-		<footer>
-			<div class="w3-padding w3-black">
-				NASA Space Apps Challenge - Team Gideon
-			</div>
-		</footer>
-	</div>
-</div>
 
+	</div>
+
+</div>
+<div class="w3-col l2">&nbsp;</div>
+<div class="w3-col l10">
+  <footer>
+    <div class="w3-padding w3-black">
+      NASA Space Apps Challenge - Team Gideon
+    </div>
+  </footer>
 
 
 <?php

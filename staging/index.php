@@ -35,6 +35,7 @@
 	include ('environment.php');
 	include ('team.php');
 	include ('about.php');
+	include ('methodology.php');
 
 	if (isset($_GET["page"])) {
 		$page = $_GET['page'];
@@ -53,6 +54,9 @@
 				break;
 			case 'team':
 				showTeam();
+				break;
+			case 'methodology':
+				showMethodology();
 				break;
 			default:
 				showGideon();
