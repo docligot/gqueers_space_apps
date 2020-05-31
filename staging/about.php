@@ -58,11 +58,11 @@ function showGideon() {
       <br/>
 			<i class="fas fa-space-shuttle"></i> GDP from <a href="https://tradingeconomics.com/country-list/gdp-growth-rate" target="_blank" class="w3-text-blue">Trading Economics</a>
       <br/>
-			<i class="fas fa-space-shuttle"></i> [Map] Satellite Imagery of MODIS thermal hotspots from <a href="https://www.arcgis.com/index.html" target="_blank" class="w3-text-blue">ArcGIS Online</a>
+			<i class="fas fa-space-shuttle"></i> [Map] Satellite Imagery of MODIS thermal hotspots from <a href="https://www.arcgis.com/home/item.html?id=b8f4033069f141729ffb298b7418b653" target="_blank" class="w3-text-blue">ArcGIS Online</a>
       <br/>
 			<i class="fas fa-space-shuttle"></i> [Map] AirNow Air Quality Monitoring Site Data from <a href="https://www.arcgis.com/index.html" target="_blank" class="w3-text-blue">ArcGIS Online</a>
       <br/>
-			<i class="fas fa-space-shuttle"></i> [Map] AirPollutant Concentration Data from <a href="https://www.arcgis.com/index.html" target="_blank" class="w3-text-blue">ArcGIS Online</a>
+			<i class="fas fa-space-shuttle"></i> [Map] AirPollutant Concentration Data from <a href="https://www.arcgis.com/home/item.html?id=0ccd5103f5de46e1816fd8ddfb3c5995" target="_blank" class="w3-text-blue">ArcGIS Online</a>
 			<br/>
       <i class="fas fa-space-shuttle"></i> Mobility Data during Global Lockdowns from <a href="https://www.google.com/covid19/mobility/" target="_blank" class="w3-text-blue">Google</a>
       <br/>
