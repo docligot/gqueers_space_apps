@@ -8,6 +8,7 @@ function showEconomic() {
 	<div class="w3-col l10">
 		<h1 class="w3-xlarge w3-padding din-bold">Economic Factors</h1>
 		<div class="w3-padding"><select id="country_economic" class="w3-select" onchange="change()">
+			<option value="" selected disabled hidden>Choose country</option>
 			<option value="Philippines">Philippines</option>
 			<option value="Japan">Japan</option>
 			<option value="Singapore">Singapore</option>
@@ -15,7 +16,12 @@ function showEconomic() {
 			<option value="Sweden">Sweden</option>
 		</select></div>
 		<div id="country_graph" class="w3-col l7 w3-padding" style="height:350px;">
-			<p style="padding-right:3em; padding-left:3em; padding-top:1em;">With lockdowns in place in many places in the globe and travel industry hampered in its general operations, coronavirus has become one of the biggest challenges to the economy since the World War II and Spanish pandemic of 1918. Each country has its own respective flavors of impacts in its GDP as contributed by changes in human mobility in places, changes in the environment, and changes in the way work is being done. This section demonstrates the nowcast of GDP growth rate from GIDEON Insights tool and related news articles about the economy of the countries of interest.</p>
+			<p style="padding-right:3em; padding-left:3em; padding-top:1em;">With lockdowns in place in many places in the globe and travel industry hampered in its general operations, coronavirus has become one of the biggest challenges to the economy since the World War II and Spanish pandemic of 1918. Each country has its own respective flavors of impacts in its GDP as contributed by changes in human mobility in places, changes in the environment, and changes in the way work is being done. This section demonstrates the nowcast of GDP growth rate from GIDEON Insights tool and related news articles about the economy of the countries of interest.
+			<br/>
+			<br/>
+
+			Choose a country in the dropdown above to see nowcasted GDP.
+			</p>
 		</div>
 		<div class="w3-col l5" style="padding-right:10px;">
 			<h4>News Aggregator</h4>
