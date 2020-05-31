@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="resources/w3.css"/>
 	<link rel="stylesheet" href="resources/app_css.css" />
 	<link rel="stylesheet" href=/>
+	<link rel="stylesheet" href="custom.css"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="UTF-8" />
 
