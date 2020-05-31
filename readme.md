@@ -8,6 +8,8 @@ Public policymakers and economic planners are challenged to come up with agile s
 
 GIDEON is an integrated public policy information portal that aims to measure the impact of COVID on various countries and its effect on economic and environmental terms. The countries that are able to contain COVID while keeping their economy afloat with minimal impact to the environment stand the best chance of sustainably bouncing back after this crisis.
 
+![Data Value Chain](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/Data%20Value%20Chain.png?raw=true)
+
 ## How it Works
 
 Newsfeeds, Google Mobility data, and COVID cases show the multi-dimensional impact of government-mandated lockdowns and other interventions on their societies. Not all governments applied lockdowns, and no two lockdowns were implemented the same way.
