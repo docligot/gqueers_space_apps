@@ -18,7 +18,7 @@ function showMobility() {
 				</section>
 				<br/>
 				<br/>
-				<div class="w3-small">The yellow lines indicate the onset of lockdown in Italy and the bars show the actual number of covid growth cases in the country at the time the mobility data was captured. The slightly increasing activity at the parks indicate that lives are slowly going back to normal for Italians by May 2020 compared to its low during March and April.</div>
+				<div class="w3-small">The spike in yellow line indicates the onset of lockdown in Italy and the bars show the actual number of covid growth cases in the country at the time the mobility data was captured. The slightly increasing activity at the parks indicate that lives are slowly going back to normal for Italians by May 2020 compared to its low during March and April.</div>
 			</div>
 			
 			<br/>
@@ -31,7 +31,7 @@ function showMobility() {
 				</section>
 				<br/>
 				<br/>
-				<div class="w3-small">Lockdown measures have people staying in their homes in the Philippines as shown by the yellow line. Lockdowns are still in place as of May for the Filipino people. There is no visible resurgence or uptick in covid growths after lockdown measures have been placed.</div>
+				<div class="w3-small">Lockdown measures have people staying in their homes in the Philippines as shown by the yellow line. Lockdowns are still in place as of May for the Filipino people. There is no visible resurgence or uptick in covid growths after lockdown measures are slowly being lifted.</div>
 			</div>		
 			
 			
