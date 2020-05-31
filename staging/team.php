@@ -30,7 +30,7 @@ function showTeam() {
 		</div>
 		<footer>
 			<div class="w3-padding w3-black">
-				NASA Space Apps Challenge - Team Gideon by CirroLytix
+				NASA Space Apps Challenge - Powered by Team Gideon
 			</div>
 		</footer>
 	</div>

@@ -24,6 +24,11 @@ function showEconomic() {
 				
 			</div>
 		</div>
+		<footer>
+			<div class="w3-padding w3-black">
+				NASA Space Apps Challenge - Powered by Team Gideon
+			</div>
+		</footer>
 	</div>
 </div>
 	
