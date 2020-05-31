@@ -31,9 +31,9 @@ Finally, various levels of human activity affect pollution levels around the wor
 * COVID-19 global infection data is taken from Johns Hopkins University;
 * NO2 data is taken from Sentinel-5p datasets;
 
-![Spectral1](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200101%20to%20200201.png?raw=true | width=33%)
-![Spectral2](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200202%20to%20200208.png?raw=true | width=33%)
-![Spectral3](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200207%20to%20200217.png?raw=true | width=33%)
+![Spectral1](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200101%20to%20200201.png?raw=true | width=80)
+![Spectral2](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200202%20to%20200208.png?raw=true | width=80)
+![Spectral3](https://github.com/docligot/gqueers_space_apps/blob/master/Screenshots/SG%20-%20NO2%20-%20200207%20to%20200217.png?raw=true | width=80)
 
 ## Insights
 
