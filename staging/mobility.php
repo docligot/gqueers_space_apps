@@ -8,7 +8,7 @@ function showMobility() {
 <div>
 	<div class="w3-col l2">&nbsp;</div>
 	<div class="w3-col l10">
-		<h2 class="w3-xlarge w3-padding din-bold">Country Profiles</h2>
+		<h2 class="w3-xlarge w3-padding din-bold">Social Mobility</h2>
 
 	<div class="w3-container w3-padding w3-mobile" >
 
