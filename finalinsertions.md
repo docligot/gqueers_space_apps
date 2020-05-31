@@ -18,3 +18,7 @@ To match the other variables in the study, we aggregated the human mobility data
 
 #### R^2 Values
 R^2 values derived from our initial run of the GIDEON model are indicative with values ranging from 0.7 to 0.9. 
+
+#### Related Literature
+1. Night-Time Light Data: A Good Proxy Measure for Economic Activity https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4619681/
+2. WHO Guidelines for Indoor Air Quality: Selected Pollutants: https://www.ncbi.nlm.nih.gov/books/NBK138707/
