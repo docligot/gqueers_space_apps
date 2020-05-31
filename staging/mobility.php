@@ -10,7 +10,7 @@ function showMobility() {
 	
 		<div class="w3-row" style="margin-left:15px">
 		
-			<div class="w3-row">
+			<div class="w3-row w3-padding">
 				</section>
 					<div class="w3-col l9 w3-padding">
 					<h3>Philippines</h3>
@@ -20,11 +20,11 @@ function showMobility() {
 				<br/>
 				<br/>
 				<br/>
-				<div class="w3-small">Lockdown measures have people staying in their homes in the Philippines as shown by the yellow line. Lockdowns are still in place as of May for the Filipino people. There is no visible resurgence or uptick in covid growths after lockdown measures are slowly being lifted.</div>
+				<div class="w3-small w3-padding">Lockdown measures have people staying in their homes in the Philippines as shown by the yellow line. Lockdowns are still in place as of May for the Filipino people. There is no visible resurgence or uptick in covid growths after lockdown measures are slowly being lifted.</div>
 			</div>		
 			<br/>
 			<br/>
-			<div class="w3-row">
+			<div class="w3-row w3-padding">
 				</section>
 					<div class="w3-col l9 w3-padding">
 					<h3>Japan</h3>
@@ -34,11 +34,11 @@ function showMobility() {
 				<br/>
 				<br/>
 				<br/>
-				<div class="w3-small">Japan did not issue any strict lockdowns despite the covid-19 cases they had to face locally and in the Diamond Princess ship. However, a notable decrease in mobility in transportation has been observed in the height of the covid-19 pandemic.</div>
+				<div class="w3-small w3-padding">Japan did not issue any strict lockdowns despite the covid-19 cases they had to face locally and in the Diamond Princess ship. However, a notable decrease in mobility in transportation has been observed in the height of the covid-19 pandemic.</div>
 			</div>
 			<br/>
 			<br/>
-			<div class="w3-row">
+			<div class="w3-row w3-padding">
 				</section>
 					<div class="w3-col l9 w3-padding">
 					<h3>Italy</h3>
@@ -48,11 +48,11 @@ function showMobility() {
 				<br/>
 				<br/>
 				<br/>
-				<div class="w3-small">The spike in yellow line indicates the onset of lockdown in Italy and the bars show the actual number of covid growth cases in the country at the time the mobility data was captured. The slightly increasing activity at the parks indicate that lives are slowly going back to normal for Italians by May 2020 compared to its low during March and April.</div>
+				<div class="w3-small w3-padding">The spike in yellow line indicates the onset of lockdown in Italy and the bars show the actual number of covid growth cases in the country at the time the mobility data was captured. The slightly increasing activity at the parks indicate that lives are slowly going back to normal for Italians by May 2020 compared to its low during March and April.</div>
 			</div>
 			<br/>
 			<br/>
-			<div class="w3-row">
+			<div class="w3-row w3-padding">
 				</section>
 					<div class="w3-col l9 w3-padding">
 					<h3>Singapore</h3>
@@ -62,11 +62,11 @@ function showMobility() {
 				<br/>
 				<br/>
 				<br/>
-				<div class="w3-small">Singapore's social distancing and protocols are visibly moderate compared to other countries with dramatic drop in mobility.</div>
+				<div class="w3-small w3-padding">Singapore's social distancing and protocols are visibly moderate compared to other countries with dramatic drop in mobility.</div>
 			</div>
 			<br/>
 			<br/>
-			<div class="w3-row">
+			<div class="w3-row w3-padding">
 				</section>
 					<div class="w3-col l9 w3-padding">
 					<h3>Sweden</h3>
@@ -76,7 +76,7 @@ function showMobility() {
 				<br/>
 				<br/>
 				<br/>
-				<div class="w3-small">Sweden's controversial zero lockdown strategy ruffled feathers globally. Despite that, it looks like covid-19 infection numbers is still relatively somehow well-managed.</div>
+				<div class="w3-small w3-padding">Sweden's controversial zero lockdown strategy ruffled feathers globally. Despite that, it looks like covid-19 infection numbers is still relatively somehow well-managed.</div>
 			</div>					
 		
 		</div>

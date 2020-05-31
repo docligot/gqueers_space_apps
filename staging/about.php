@@ -18,7 +18,7 @@ function showGideon() {
 
 <div id="about-page" class="w3-row">
 	<div class="w3-col l2">&nbsp;</div>
-	<div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:2em; padding-bottom:1em;">
+	<div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:2em; padding-bottom:2em;">
 		<h2 class="din-bold w3-margin-top w3-margin-left">PROJECT GIDEON FOR THE NASA SPACE APPS CHALLENGE</h2>
 		<div class="w3-margin-left">
 			The odds of the pandemic to the economy are against us. Let's beat the odds with satellite data using GIDEON's nowcast tool.
