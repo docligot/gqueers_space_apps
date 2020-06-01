@@ -8,7 +8,7 @@ function showGideon() {
   <div id="header-1" class="w3-padding-large w3-display-container spacer">
     <div class="w3-mobile w3-display-middle w3-center gideon-lighter">
       <div class="w3-padding"><h1 class="w3-xlarge">PROJECT GIDEON</h1></div>
-      <div class="w3-padding gideon-darker w3-padding w3-small"><p><b>G</b>lobal <b>I</b>mpact <b>D</b>etection using <b>E</b>mitted <b>L</b>ight, <b>O</b>nset of Covid-19, and <b>N</b>itrogen Dioxide</p></div>
+      <div class="w3-padding gideon-darker w3-padding w3-small"><p><b>G</b>lobal <b>I</b>mpact <b>D</b>etection using <b>E</b>mitted Light, <b>O</b>nset of Covid-19, and <b>N</b>itrogen Dioxide</p></div>
     </div>
   </div>
 </div>
