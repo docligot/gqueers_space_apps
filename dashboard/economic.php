@@ -23,7 +23,7 @@ function showEconomic() {
 			Choose a country in the dropdown above to see nowcasted GDP.
 			</p>
 		</div>
-		<div class="w3-col l5" style="padding-right:10px;">
+		<div class="w3-col l5" style="padding-right:10px; padding-left:10px; padding-bottom:20px;">
 			<h4>News Aggregator</h4>
 			<div id="news_aggregator"></div>
 
