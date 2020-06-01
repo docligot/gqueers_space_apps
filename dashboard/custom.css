@@ -53,6 +53,7 @@ a:hover {
   color:#318fb5;
 }
 
+
 .lds-ring {
   display: inline-block;
   position: relative;
@@ -91,15 +92,8 @@ a:hover {
 
 p {
   word-break: normal;
-
 }
 
-
-
-.profile-pic {
-  border:2px;
-  border-radius:
-}
 
 
 
