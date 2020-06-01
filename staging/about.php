@@ -3,7 +3,7 @@
 function showGideon() {
 ?>
 <header>
-  <div class="w3-col l2">&nbsp;</div>
+  <div class="w3-col l2 w3-hide-medium w3-hide-small">&nbsp;</div>
 	<div class="w3-col l10">
   <div id="header-1" class="w3-padding-large w3-display-container spacer">
     <div class="w3-mobile w3-display-middle w3-center gideon-lighter">
@@ -17,8 +17,8 @@ function showGideon() {
 
 
 <div id="about-page" class="w3-row">
-	<div class="w3-col l2">&nbsp;</div>
-	<div class="w3-col l10" style="padding-left:10em; padding-right:10em; padding-top:2em; padding-bottom:2em;">
+	<div class="w3-col l3 w3-hide-small w3-hide-medium">&nbsp;</div>
+	<div class="w3-col l8" style="padding-top:2em; padding-bottom:2em; padding-right:10px;">
 		<h2 class="din-bold w3-margin-top w3-margin-left">PROJECT GIDEON FOR THE NASA SPACE APPS CHALLENGE</h2>
 		<div class="w3-margin-left">
 			The odds of the pandemic to the economy are against us. Let's beat the odds with satellite data using GIDEON's nowcast tool.
@@ -66,7 +66,9 @@ function showGideon() {
 			<br/>
       <i class="fas fa-space-shuttle"></i> Mobility Data during Global Lockdowns from <a href="https://www.google.com/covid19/mobility/" target="_blank" class="w3-text-blue">Google</a>
       <br/>
-			<i class="fas fa-space-shuttle"></i> Covid-19 Growth Rate and Case Data from <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank" class="w3-text-blue">John Hopkins University</a> and <a href="https://www.coronatracker.com/" target="_blank" class="w3-text-blue"> CoronaTracker.com</a>
+      <i class="fas fa-space-shuttle"></i> Covid-19 Growth Rate and Case Data from <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank" class="w3-text-blue">John Hopkins University</a> and <a href="https://www.coronatracker.com/" target="_blank" class="w3-text-blue"> CoronaTracker.com</a>
+      <br/>
+  <div class="w3-col l1">&nbsp;</div>
 
 	</div>
 
@@ -75,9 +77,10 @@ function showGideon() {
 <div class="w3-col l10">
   <footer>
     <div class="w3-padding w3-black">
-      NASA Space Apps Challenge - Team Gideon
+      NASA Space Apps Challenge - Powered by Team Gideon
     </div>
   </footer>
+</div>
 
 
 <?php
